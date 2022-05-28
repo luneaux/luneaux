@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luneaux&count_private=true&include_all_commits=true&theme=solarized-light" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luneaux&count_private=true&include_all_commits=true" />
 </p>
 
 <!--
