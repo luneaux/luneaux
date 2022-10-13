@@ -2,7 +2,7 @@
   <samp>Howdy</samp>
   <br>
   <br>
-  <samp>Not actively working on anytime right now.</samp>
+  <samp>Not actively working on anything right now.</samp>
 </p>
 
 ---
